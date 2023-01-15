@@ -5,7 +5,7 @@
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
 
-* **13 Different Pickers** - Sketch, Photoshop, Chrome and many more
+* **13 seletores diferentes** - Sketch, Photoshop, Chrome e muito mais
 
 * **Make Your Own** - Use the building block components to make your own
 
